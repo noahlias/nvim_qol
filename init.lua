@@ -1,0 +1,5 @@
+vim.loader.enable()
+require("config.default")
+require("config.lazy")
+require("config.keymaps")
+vim.cmd.colorscheme("melange")

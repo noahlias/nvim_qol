@@ -1,0 +1,14 @@
+{
+  "blink.cmp": { "branch": "main", "commit": "8a092ce8630a885ba8b3e60c85fd06a6930d3af1" },
+  "copilot-status.nvim": { "branch": "main", "commit": "ea9e7000e82a89aac9d8434675dfed3da4ec1158" },
+  "fzf-lua": { "branch": "main", "commit": "e724f5080b94ae685978919c971b3371b1b48a60" },
+  "lazy.nvim": { "branch": "main", "commit": "7e6c863bc7563efbdd757a310d17ebc95166cef3" },
+  "lazydev.nvim": { "branch": "main", "commit": "8620f82ee3f59ff2187647167b6b47387a13a018" },
+  "lualine.nvim": { "branch": "master", "commit": "2a5bae925481f999263d6f5ed8361baef8df4f83" },
+  "melange-nvim": { "branch": "master", "commit": "9252c78c7bffd3126b0c9e47e51e0b5211acffb1" },
+  "mini.icons": { "branch": "main", "commit": "44c0160526f7ae17ca8e8eab9ab235d047fcf7a6" },
+  "neoconf.nvim": { "branch": "main", "commit": "cc2b06b828c68b31a636aff32fdb5a75e5b42d2f" },
+  "nvim-lspconfig": { "branch": "master", "commit": "ff2b85abaa810f6611233dbe6d31c07510ebf43d" },
+  "nvim-web-devicons": { "branch": "master", "commit": "c1a86a2c386c55efc02fa2ec2c3a914af653d954" },
+  "snacks.nvim": { "branch": "main", "commit": "98df370703b3c47a297988f3e55ce99628639590" }
+}
