@@ -27,6 +27,12 @@ return {
 		},
 		quickfile = { enabled = true },
 		statuscolumn = { enabled = true },
+		picker = { enabled = true },
+		input = { enabled = true },
+		image = { enabled = true },
+		explorer = { enabled = true },
+		scope = { enabled = true },
+		scroll = { enabled = true },
 		words = { enabled = true },
 		styles = {
 			notification = {
